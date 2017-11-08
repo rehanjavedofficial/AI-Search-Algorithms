@@ -1,6 +1,3 @@
-# Java
-Code related to Java.
-
 Artificial Intelligence Algorithms.
 
   1: Breadth First Search
